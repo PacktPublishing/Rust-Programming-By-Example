@@ -10,9 +10,9 @@ All the code files are placed in their respective code folders.
 The code will look like the following:
 ```
     html, body, #map {
-    height: 100%;
-    margin: 0;
-    padding: 0
+     height: 100%;
+     margin: 0;
+     padding: 0
    }
 ```
 
@@ -25,5 +25,4 @@ There isn't much that you require. Besides, Rust is well supported on any operat
 
 * [Network Programming with Rust](https://www.packtpub.com/application-development/network-programming-rust?utm_source=github&utm_medium=repository&utm_campaign=9781788624893)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+
