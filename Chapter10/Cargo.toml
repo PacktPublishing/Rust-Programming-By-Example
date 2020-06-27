@@ -1,0 +1,22 @@
+[package]
+name = "ftp-server"
+version = "0.0.1"
+
+[dependencies]
+bytes = "^0.4.5"
+cfg-if = "0.1.2"
+futures = "^0.1.16"
+time = "0.1.38"
+tokio-core = "^0.1.10"
+tokio-io = "^0.1.3"
+toml = "0.4"
+serde = "1.0"
+serde_derive = "1.0"
+
+[dev-dependencies]
+ftp = "^2.2.1"
+
+[dependencies.futures-await]
+git = "https://github.com/alexcrichton/futures-await"
+
+[features]
