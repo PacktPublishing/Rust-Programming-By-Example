@@ -1,5 +1,9 @@
 # Rust Programming By Example
 This is the code repository for [Rust Programming By Example](https://www.packtpub.com/application-development/rust-programming-example?utm_source=github&utm_medium=repository&utm_campaign=9781788390637), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+## License
+Among the other mistakes, the authors forgot to put a license (see [issue](https://github.com/PacktPublishing/Rust-Programming-By-Example/issues/3)). It's therefore not clear what license this fork should have.
+
+In absence of any information, this fork has "the same license as the original repository".
 ## About the Book
 Rust is an open source, safe, concurrent, practical language created by Mozilla. It runs blazingly fast, prevents segfaults, and guarantees safety. This book gets you started with essential software development by guiding you through the different aspects of Rust programming. With this approach, you can bridge the gap between learning and implementing immediately.
 ## Instructions and Navigation
