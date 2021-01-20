@@ -1,0 +1,7 @@
+server_port = 1234
+server_addr = "127.0.0.1"
+
+[[users]]
+name = "anonymous"
+password = ""
+

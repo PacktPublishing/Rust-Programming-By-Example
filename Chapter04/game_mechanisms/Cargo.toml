@@ -1,0 +1,11 @@
+[package]
+name = "tetris"
+version = "0.0.1"
+authors = ["lance"]
+
+[dependencies]
+sdl2 = { git = "https://github.com/Rust-SDL2/rust-sdl2" }
+rand = "0.3"
+
+  [features]
+    default = ["sdl2/ttf"]

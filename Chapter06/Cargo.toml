@@ -1,0 +1,18 @@
+[package]
+authors = ["Antoni Boucher <bouanto@zoho.com>"]
+name = "music-player"
+version = "0.1.0"
+
+[dependencies]
+crossbeam = "^0.3.0"
+gdk-pixbuf = "^0.2.0"
+gio = "^0.2.0"
+gtk = "^0.2.0"
+gtk-sys = "^0.4.0"
+id3 = "^0.2.0"
+m3u = "^1.0.0"
+pulse-simple = "^1.0.0"
+simplemad = "^0.8.1"
+
+[features]
+default = ["gtk/v3_10"]
